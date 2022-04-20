@@ -1,5 +1,7 @@
 # Cpp Problem Solving
 C++ Problem Solving Cord List | Sad Mia
 
-C++ Problem Solving Part 1 | Basic Problem Solving Cpp
+Basic C++ Problem Solving Video Playlist
+
+https://www.youtube.com/playlist?list=PL3gPPGWj1S3MO1buIZbJm8sQXVwdRzBVC
 
